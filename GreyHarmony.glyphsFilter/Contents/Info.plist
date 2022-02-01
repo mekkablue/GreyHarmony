@@ -13,17 +13,17 @@
 	<key>CFBundleName</key>
 	<string>GreyHarmony</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.0</string> <!-- 1.0 -->
+	<string>1.0.1</string> <!-- 1.0 -->
 	<key>CFBundleVersion</key>
-	<string>1</string> <!-- 123 -->
+	<string>2</string> <!-- 123 -->
 	<key>UpdateFeedURL</key>
 	<string>https://raw.githubusercontent.com/mekkablue/GreyHarmony/master/GreyHarmony.glyphsFilter/Contents/Info.plist</string>
 	<key>productPageURL</key>
 	<string>https://github.com/mekkablue/GreyHarmony</string>
 	<key>productReleaseNotes</key>
-	<string>Fixed Spanish translation (thx Miguel).</string>
+	<string>Updated binary.</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright, Alex mekkablue, 2021</string>
+	<string>Copyright, Rainer Erich Scheichelbauer, 2022</string>
 	<key>NSPrincipalClass</key>
 	<string>GreyHarmony</string>
 	<key>PyMainFileNames</key>
